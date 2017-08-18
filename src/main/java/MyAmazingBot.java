@@ -34,6 +34,6 @@ public class MyAmazingBot extends TelegramLongPollingBot {
     @Override
     public String getBotToken() {
         // Return bot token from BotFather
-        return "388216169:AAFaGwWn6Czhuud2jfdHqJrO6hwisRuGoOc";
+        return "3232:sdsdsdsfdfsfdgfsdgfsw";
     }
 }
